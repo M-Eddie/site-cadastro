@@ -1,0 +1,70 @@
+
+.body-cadastro {
+    background-color: #d71b16;
+}
+
+.body-home {
+    background-color: #2c6ebf;
+}
+
+
+.titulo {
+    height: auto;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.interfacebox {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.interface {
+    background-color: #ececec !important;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-width: 5px;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+    overflow: hidden;
+}
+
+.imgpersonagem {
+    max-height: 550px;
+    width: auto;
+}
+
+@font-face {
+    font-family: 'arsenalbold';
+    src: url('fonts/arsenal-bold-webfont.woff2') format('woff2'),
+        url('fonts/arsenal-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'arsenalregular';
+    src: url('fonts/arsenal-regular-webfont.woff2') format('woff2'),
+        url('fonts/arsenal-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.arsenalbold {
+    font-family: 'arsenalbold', Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.botaoprincipal {
+    width: 150px;
+}
